@@ -1,0 +1,14 @@
+Mike Brown
+Email: mike.brown@example.com
+Phone: 555-3456
+
+Summary:
+Frontend developer with 4 years of experience in JavaScript and React.
+
+Skills:
+JavaScript, React, CSS, HTML
+
+Experience:
+Frontend Developer at WebWorks (2021-2025)
+- Built responsive UIs using React
+- No Python experience

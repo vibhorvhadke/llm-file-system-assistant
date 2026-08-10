@@ -1,0 +1,14 @@
+Sara Khan
+Email: sara.khan@example.com
+Phone: 555-4567
+
+Summary:
+DevOps engineer with 7 years of experience in AWS and Kubernetes.
+
+Skills:
+Python, AWS, Kubernetes, Docker
+
+Experience:
+DevOps Engineer at CloudNine (2018-2025)
+- Automated infrastructure using Python scripts
+- Managed AWS and Kubernetes clusters

@@ -1,0 +1,14 @@
+Jane Smith
+Email: jane.smith@example.com
+Phone: 555-2345
+
+Summary:
+Data scientist with 6 years of experience in machine learning and Python.
+
+Skills:
+Python, TensorFlow, SQL, Pandas
+
+Experience:
+Data Scientist at DataCorp (2019-2025)
+- Built ML models for fraud detection using Python
+- Worked extensively with SQL databases
